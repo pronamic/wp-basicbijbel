@@ -2,7 +2,7 @@
 /*
 Plugin Name: Basic Bijbel
 Plugin URI: http://www.pronamic.eu/plugins/basicbijbel/
-Description: 
+Description: WordPress plugin for "Basic Bijbel" features.
 
 Version: 1.0.0
 Requires at least: 3.0
