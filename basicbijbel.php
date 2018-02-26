@@ -21,7 +21,7 @@ GitHub URI: https://github.com/pronamic/wp-basicbijbel
 function basicbijbel_enqueue_scripts() {
 	wp_enqueue_script(
 		'basicbijbel',
-		'//www.basicbijbel.nl/scan',
+		'https://www.basisbijbel.nl/scan',
 		array( 'jquery' ),
 		false,
 		true
